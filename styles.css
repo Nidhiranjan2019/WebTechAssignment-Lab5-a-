@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(#f7f2e7,#e0ece4);
+    background-image: linear-gradient(#ffafbd,#ffc3a0);
 }
 .container{
     display: flex;
@@ -9,7 +9,7 @@ body{
 img{
     width: 400px;
     height: 300px;
-    margin: 5px;
+    margin: 10px;
     transition: all 1s;
     box-shadow: 8px 8px 8px gray;
 }
