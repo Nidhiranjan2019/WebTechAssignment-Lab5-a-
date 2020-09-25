@@ -14,8 +14,8 @@ img:hover{
     /* transform: scaleZ(100deg); */
     
   transform-style: preserve-3d;
-  opacity:1;
-  -webkit-transform: scale(1.4);
+/*   
+  -webkit-transform: scale(1.4); */
   transform: rotateY(180deg);
 }
 
