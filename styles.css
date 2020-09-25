@@ -8,7 +8,7 @@ img{
     height: 300px;
     margin: 5px;
     transition: all 1s;
-    box-shadow: 4px 4px 4px gray;
+    box-shadow: 8px 8px 8px gray;
 }
 img:hover{
     /* transform: scaleZ(100deg); */
